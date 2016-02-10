@@ -5,3 +5,5 @@
 ##### Demo image:
 
 ![Demo image](https://github.com/kirneh/iTunes-QR/blob/master/demo.gif?raw=true "Demo image")
+
+### [OpenUserJS](https://openuserjs.org/scripts/Kirneh/iTunes_QR)
