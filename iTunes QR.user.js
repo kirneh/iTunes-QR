@@ -33,7 +33,7 @@ $(document).ready(function(){
     qr.innerHTML = '<img src="http://chart.apis.google.com/chart?cht=qr&chs=150x150&chl='+document.location.href+'&chld=H|0">';
     
     $(qr).hide();
-    $('#left-stack > div.lockup.product.application > div.fat-binary-blurb').after(qrToggle,qr);
+    $('a.view-in-itunes').after(qrToggle,qr);
     
     $("#qrToggle").click(function(){
         $("#qr").slideToggle();
